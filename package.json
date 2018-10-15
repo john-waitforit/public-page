@@ -1,0 +1,19 @@
+{
+  "name": "html-page",
+  "version": "1.0.0",
+  "private": true,
+  "repository": "git@github.com:john-waitforit/public-page.git",
+  "author": "Jonathan Wagner <jonathanw@theodo.co.uk>",
+  "license": "MIT",
+  "scripts": {
+    "build": "webpack"
+  },
+  "devDependencies": {
+    "webpack": "^4.20.2",
+    "webpack-cli": "^3.1.2",
+    "webpack-dev-server": "^3.1.9"
+  },
+  "dependencies": {
+    "lodash": "^4.17.11"
+  }
+}
