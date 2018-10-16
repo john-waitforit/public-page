@@ -1,4 +1,4 @@
-body {
+.blue-background {
   background-color: #d3e4f1;
 }
 
@@ -15,10 +15,11 @@ h2 {
   color: #5496c9;
 }
 
-.container {
+.my-container {
   background-color: white;
   width: 50%;
   margin: auto;
+  margin-top: 15px;
   border-radius: 30px;
   padding: 10px 0 30px 0;
 }
