@@ -4,9 +4,9 @@
   "private": true,
   "repository": "git@github.com:john-waitforit/public-page.git",
   "author": "Jonathan Wagner <jonathanw@theodo.co.uk>",
-  "license": "MIT",
   "scripts": {
-    "build": "webpack"
+    "build": "webpack",
+    "start": "webpack-dev-server --open"
   },
   "devDependencies": {
     "webpack": "^4.20.2",
